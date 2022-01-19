@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j7LIFHT5WhOZSzhI5hkKGH8+qbAyHQwD1Xb9f3+pzmrTX11i+WKlHs10Q0ysQ/kvPmLawdtMuociONmZWAh9fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ali\\source\\repos\\FlashlightApp\\FlashlightApp\\FlashlightApp.iOS\\FlashlightApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

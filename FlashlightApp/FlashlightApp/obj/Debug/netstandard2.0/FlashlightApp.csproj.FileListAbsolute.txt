@@ -1,0 +1,15 @@
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\bin\Debug\netstandard2.0\FlashlightApp.deps.json
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\bin\Debug\netstandard2.0\FlashlightApp.dll
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\bin\Debug\netstandard2.0\ref\FlashlightApp.dll
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\bin\Debug\netstandard2.0\FlashlightApp.pdb
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\obj\Debug\netstandard2.0\FlashlightApp.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\obj\Debug\netstandard2.0\FlashlightApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\obj\Debug\netstandard2.0\FlashlightApp.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\obj\Debug\netstandard2.0\FlashlightApp.AssemblyInfo.cs
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\obj\Debug\netstandard2.0\FlashlightApp.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\obj\Debug\netstandard2.0\FlashlightApp.dll
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\obj\Debug\netstandard2.0\ref\FlashlightApp.dll
+C:\Users\Ali\source\repos\FlashlightApp\FlashlightApp\FlashlightApp\obj\Debug\netstandard2.0\FlashlightApp.pdb
